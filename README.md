@@ -1,5 +1,3 @@
-# FMCG-Sales-Performance-Dashboard
-A Tableau dashboard project analyzing regional sales performance, product-wise revenue trends, and key KPIs for a hypothetical FMCG distribution network. The project focuses on deriving actionable insights from sales data and presenting them through an interactive, visually-driven analytics dashboard.
 # FMCG Sales Performance Dashboard
 
 This project presents a Tableau-based sales analytics dashboard for a fictional FMCG distribution network. It analyzes sales trends, regional performance, product-wise revenue, and key operational metrics to support business decision-making.
